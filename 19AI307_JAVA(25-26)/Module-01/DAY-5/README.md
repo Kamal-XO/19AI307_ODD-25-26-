@@ -20,9 +20,9 @@ To write a Java program that finds the absolute value of a given number using th
 ## PROGRAM:
  ```
 /*
-Program to implement a Strings and Math Function using Java
-Developed by: DINESH KARTHICK KJ  
-Register Number:212222100011
+Program to implement a Looping Statement using Java
+Developed by: KAMALESH SV 
+Register Number:212222240041
 */
 ```
 
@@ -47,6 +47,7 @@ public class demo
 
 ## RESULT:
 Therefore the program successfully reads a number and calculates its absolute value.
+
 
 
 
